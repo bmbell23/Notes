@@ -8,4 +8,3 @@ write auth/userpass/users/mlupfer password="H+4J5zyHv.%).%0cru039?H^P!M%iqvnAxh2
 
 write auth/userpass/users/bbell password="4Q)YDX0P+!q3v]Kw3x}fe,!s1Q8-zgeH9_!8:Uq2g," token_policies=admin token_ttl=8h
 
-write auth/userpass/users/admin password="gJ>vW}9Bw>6xPw0yy~.tM4EPgHbeWQ,PZv]%tco:M#" token_policies=admin token_ttl=8h
